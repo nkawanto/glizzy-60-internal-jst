@@ -1,6 +1,6 @@
-# gummy-60-internal-jst
+# glizzy-60-internal-jst
 
-JST version of https://github.com/glizzy-goblin/gummy-60
+JST version of https://github.com/glizzy-goblin/glizzy-60
 
 Only h60 + cannonkeys bakeneko pcb support with this version of the board :( 
 
